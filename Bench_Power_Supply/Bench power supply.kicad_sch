@@ -1470,6 +1470,7 @@
   (no_connect (at 170.688 38.608) (uuid 349d5527-0b6e-4a31-8ba1-b1b886a441b7))
   (no_connect (at 155.448 36.068) (uuid a489773f-3036-4968-9e1b-1321d6938739))
   (no_connect (at 155.448 41.148) (uuid e57df8c5-2eac-4441-815d-5d6f6040f7ed))
+  (no_connect (at 82.9818 40.9194) (uuid e627d3f3-c9e0-4132-b616-65b7d4c5b493))
 
   (wire (pts (xy 205.867 32.766) (xy 205.867 55.6006))
     (stroke (width 0) (type default))
