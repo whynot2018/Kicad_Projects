@@ -1,4 +1,4 @@
-23910066874364642
+23911746441600038
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -972,6 +972,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Bench_Power_Supply
+Volt_Amper_Meter_5_Cable
+
+
+0
+5
+5
 Boards
 ARDUINO_MEGA
 ARDUINO MEGA R3 FOOTPRINT
